@@ -1,1 +1,1 @@
-"Ovo je proizvoljan tekst. Tekst je sada izmijenjen" 
+"Ovo je proizvoljan tekst. Tekst je sada izmijenjen i sada je izmijenjen."
